@@ -1,0 +1,10 @@
+Cad_Bane 100
+Grogu 100
+Boba_Fett 100
+Fennec_Shand 100
+Luke_Skywalker 100
+llok 0
+liik 328
+The_Mandalorian 100
+look 0
+jj 0
